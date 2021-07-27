@@ -17,7 +17,7 @@ $ python3 tracker.py
 创建一个 screen 进程：
 
 ```shell
-$ scree -dmS tracker
+$ screen -dmS tracker
 ```
 
 进入创建的 screen 进程：
